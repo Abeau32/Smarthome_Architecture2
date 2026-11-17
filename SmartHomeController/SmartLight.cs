@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SmartHomeController
 {
-    internal class SmartLight : SmartDevice
+    internal class SmartLight : SmartDevice 
     {
         // private fields
         private double brightness;
@@ -45,3 +45,6 @@ namespace SmartHomeController
 
     }
 }
+
+
+
